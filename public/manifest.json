@@ -1,0 +1,9 @@
+{
+  "short_name": "Rambler for Reddit",
+  "name": "Rambler for Reddit",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
